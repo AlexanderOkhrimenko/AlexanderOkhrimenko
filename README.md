@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=AlexanderOkhrimenko)
+
 [![](https://raw.githubusercontent.com/AlexanderOkhrimenko/AlexanderOkhrimenko/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
